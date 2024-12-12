@@ -44,6 +44,11 @@
   height: 100vh;
 }
 
+.jumbotron .tombol button a {
+  text-decoration: none;
+  color: white;
+}
+
 .jumbotron h1 {
   color: white;
   text-shadow: 2px 2px #000000;
@@ -106,13 +111,6 @@
   line-height: 1.5;
   color: var(--text-secondary);
 }
-
-/* .logo-container {
-  position: absolute;
-} */
-
-
-
 
 
 /* visi misi */
